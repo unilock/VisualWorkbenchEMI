@@ -1,3 +1,3 @@
-# Sinytra Connector #1343
+# Visual Workbench EMI
 
-Workaround for https://github.com/Sinytra/Connector/issues/1343
+Compatibility between Visual Workbench and EMI
